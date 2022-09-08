@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RaylibTemplate", "RaylibTemplate\RaylibTemplate.csproj", "{37E3791B-24E3-4F58-AC62-F09B604B7414}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FluxEngine", "FluxEngine\FluxEngine.csproj", "{556ACA3F-B52C-4F3A-AFFA-3B6CAF57B1EA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{37E3791B-24E3-4F58-AC62-F09B604B7414}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{37E3791B-24E3-4F58-AC62-F09B604B7414}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{37E3791B-24E3-4F58-AC62-F09B604B7414}.Release|Any CPU.Build.0 = Release|Any CPU
+		{556ACA3F-B52C-4F3A-AFFA-3B6CAF57B1EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{556ACA3F-B52C-4F3A-AFFA-3B6CAF57B1EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{556ACA3F-B52C-4F3A-AFFA-3B6CAF57B1EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{556ACA3F-B52C-4F3A-AFFA-3B6CAF57B1EA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
