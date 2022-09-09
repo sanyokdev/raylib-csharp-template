@@ -1,15 +1,13 @@
 ﻿using Raylib_cs;
-using FluxEngine;
 
-namespace RaylibTemplate;
+namespace Game_Name;
 
 internal static class Program
 {
     public static void Main()
     {
         Raylib.InitWindow(640, 360, "Hello World");
-        EngineTest.Log();
-        
+
         while (!Raylib.WindowShouldClose())
         {
             Raylib.BeginDrawing(); 

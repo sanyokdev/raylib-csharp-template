@@ -12,7 +12,7 @@
     </ItemGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\FluxEngine\FluxEngine.csproj" />
+      <ProjectReference Include="..\..\FluxEngine\FluxEngine.csproj" />
     </ItemGroup>
 
 </Project>
