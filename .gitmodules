@@ -1,4 +1,0 @@
-[submodule "FluxEngine"]
-	path = FluxEngine
-	url = https://github.com/SanyokDev/FluxEngine.git
-	branch = main
